@@ -1,14 +1,4 @@
-
-Flask==2.3.2
-
-Jinja2==3.1.6
-
-pipenv==2025.0.3
-
-requests==2.31.0
-
-SQLAlchemy==2.0.41
-
+Flask
+Jinja2
 gunicorn
-
 pymongo
